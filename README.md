@@ -26,7 +26,7 @@ Adafruit AMG8833 Thermal Camera with a ST773 1.44" Color TFT Display and a Parti
 
 ## Diagram
 
-> WARNING: Lithium batteries can catch fire if punctured or used incorrectly. Inspect all wiring and validate against manufactuer data sheets before connecting a batter. If in doubt, power the Photon core directly from a battery bank instead. Lithium batteries should only be used by people comfortable with working with power supplies. **Never charge the battery unattended.**
+> **WARNING:** Lithium batteries can catch fire if punctured or used incorrectly. Inspect all wiring and validate against manufactuer data sheets before connecting a battery. If in doubt, power the Photon core directly from a wall charger or battery bank instead. Lithium batteries should only be used if you're comfortable with working with power supplies. **Never charge the battery unattended.**
 
 ![Image of Diagram](images/diagram.png)
 
