@@ -1,6 +1,6 @@
 # Low Resolution Thermal Camera (8 by 8 Grid) 
 
-Adafruit AMG8833 Thermal Camera with a ST773 1.44" Color TFT Display and a Particle Photon. This low resolution thermal camera can run on a Particle Photon. Using interpolation we can boost the resolution to 16 by 16. The AMG8833 has it's uses but for a little bit more money you can buy the [MLX90640](https://www.sparkfun.com/products/14844) which has a 24 by 32 resolution. The downside to the [MLX90640](https://www.sparkfun.com/products/14844) is that it requires more processing power which means you'd need a Rasberry Pi to use it.
+Adafruit [AMG8833 Thermal Camera](https://www.adafruit.com/product/3538) with a [ST7735R 1.44" Color TFT Display](https://www.adafruit.com/product/2088) and a Particle Photon. This low resolution thermal camera can run on a Particle Photon. Using interpolation we can boost the resolution to 16 by 16. The AMG8833 has it's uses but for a little bit more money you can buy the [MLX90640](https://www.sparkfun.com/products/14844) which has a 24 by 32 resolution. The downside to the [MLX90640](https://www.sparkfun.com/products/14844) is that it requires more processing power which means you'd need a Rasberry Pi to use it.
 
 ## Parts
 
