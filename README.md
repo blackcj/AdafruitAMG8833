@@ -1,4 +1,4 @@
-# Low Resolution Thermal Camera - 8 by 8 Grid 
+# Low Resolution Thermal Camera (8 by 8 Grid) 
 
 Adafruit AMG8833 Thermal Camera with a ST773 1.44" Color TFT Display and a Particle Photon. This low resolution thermal camera can run on a Particle Photon. Using interpolation we can boost the resolution to 16 by 16. The AMG8833 has it's uses but for a little bit more money you can buy the [MLX90640](https://www.sparkfun.com/products/14844) which has a 24 by 32 resolution. The downside to the [MLX90640](https://www.sparkfun.com/products/14844) is that it requires more processing power which means you'd need a Rasberry Pi to use it.
 
@@ -28,10 +28,11 @@ Adafruit AMG8833 Thermal Camera with a ST773 1.44" Color TFT Display and a Parti
 
 > WARNING: Lithium batteries can catch fire if punctured or used incorrectly. Inspect all wiring and validate against manufactuer data sheets before connecting a batter. If in doubt, power the Photon core directly from a battery bank instead. Lithium batteries should only be used by people comfortable with working with power supplies. **Never charge the battery unattended.**
 
+![Image of Diagram](images/diagram.png)
 
 ## Photo
 
-
+![Image of Camera](images/ir_camera_8x8.jpg)
 
 ## Sample Output
 
